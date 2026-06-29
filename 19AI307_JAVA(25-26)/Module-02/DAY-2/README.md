@@ -45,7 +45,7 @@ public class Main
 }
 ```
 ## OUTPUT:
-<img width="784" height="381" alt="java23" src="https://github.com/user-attachments/assets/b16488df-e426-4c04-982c-33c0320239a9" />
+<img width="453" height="163" alt="java22" src="https://github.com/user-attachments/assets/8da09d27-407b-40c1-bdc3-117ecfcec60c" />
 
 ## RESULT:
 Thus, the Java program to calculate the cube of a number by calling the square method internally was successfully implemented and executed.
