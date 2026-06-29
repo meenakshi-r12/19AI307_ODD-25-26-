@@ -27,8 +27,8 @@ End the program.
 ## PROGRAM:
 /*
 Program to implement variables and Operators using Java
-Developed by: HARITHA RAMESH
-RegisterNumber: 212223100011
+Developed by: Meenakshi R
+RegisterNumber: 212224220062
 */
 ## Sourcecode.java:
 ```
