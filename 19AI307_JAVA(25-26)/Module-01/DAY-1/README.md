@@ -14,6 +14,7 @@ System.out.printf() → prints formatted output
 To write a Java program that demonstrates the use of variables, data types, operators, and different print statements (print, println, and printf).
 
 ## ALGORITHM :
+```
 Start the program.
 Import the required package java.util.* (optional).
 Declare variables of different data types (int, float, char, String).
@@ -22,6 +23,7 @@ Use System.out.print() to display output on the same line.
 Use System.out.println() to display output on the next line.
 Use System.out.printf() to print formatted output.
 End the program.
+```
 ## PROGRAM:
 /*
 Program to implement variables and Operators using Java
