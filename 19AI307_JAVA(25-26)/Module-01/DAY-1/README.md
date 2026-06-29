@@ -25,11 +25,11 @@ Use System.out.printf() to print formatted output.
 End the program.
 ```
 ## PROGRAM:
-/*
+```
 Program to implement variables and Operators using Java
 Developed by: Meenakshi R
 RegisterNumber: 212224220062
-*/
+```
 ## Sourcecode.java:
 ```
 import java.util.*;
